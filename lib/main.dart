@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:video_player/video_player.dart';
 import 'package:video_streaming/player_Screen.dart';
 import 'package:video_streaming/video_player_Screen.dart';
 
@@ -19,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: VideoScreen(),
+      home: PlayerScreen(),
     );
   }
 }
