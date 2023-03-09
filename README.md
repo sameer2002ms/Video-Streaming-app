@@ -6,10 +6,8 @@ Video streaming app with resolution quality control options maintaining performa
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2023-03-10 at 12 45 29 AM](https://user-images.githubusercontent.com/76088993/224131537-38020196-90c9-48fa-ab48-346e40a19cef.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
